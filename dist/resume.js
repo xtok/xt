@@ -2203,7 +2203,7 @@ module.exports = "\r\n/**\r\n * 转换后的简历，需要修改一些样式。
 /* 7 */
 /***/ (function(module, exports) {
 
-module.exports = "王向涛\r\n===========\r\n\r\n21岁\r\n应届生\r\nweb前端实习生\r\n\r\n联系方式\r\n-----------\r\n\r\n* 18761157362 \r\n* xtok23@163.com\r\n\r\n\r\n专业技能\r\n-----------\r\n\r\n* 熟练掌握JavaScript、HTML\\CSS，\r\n* 熟悉JQuery、VueJs前端框架，\r\n* 熟悉Git版本控制工具，\r\n* 熟悉Webpack前端工程工具， \r\n* 熟悉Office、Viso、XMind、Photoshop等工具， \r\n* 了解PHP、NodeJS等服务端语言。\r\n\r\n教育经历\r\n-----------\r\n\r\n* 2016-至今 \r\n* 常州机电职业技术学院 \r\n* 移动互联应用技术\r\n\r\n\r\n校内实践\r\n-----------\r\n\r\n* 某电商平台前端开发 \r\n* 某公司网站demo \r\n* 某外卖微信小程序  \r\n\r\n\r\n自我评价\r\n-----------\r\n* 逻辑思维强，喜欢分析和关注新鲜事物， \r\n* 热爱研究，有钻研精神，自信有想法，好学上进，\r\n* 良好的沟通表达能力，优秀的团队意识和协作精神， \r\n* 希望能够充分发挥自己的优势，共同努力成就一番事业。\r\n"
+module.exports = "王向涛\r\n===========\r\n\r\n* 21岁\r\n* 应届生\r\n* web前端实习生\r\n\r\n联系方式\r\n-----------\r\n\r\n* 18761157362 \r\n* xtok23@163.com\r\n\r\n\r\n专业技能\r\n-----------\r\n\r\n* 熟练掌握JavaScript、HTML\\CSS，\r\n* 熟悉JQuery、VueJs前端框架，\r\n* 熟悉Git版本控制工具，\r\n* 熟悉Webpack前端工程工具， \r\n* 熟悉Office、Viso、XMind、Photoshop等工具， \r\n* 了解PHP、NodeJS等服务端语言。\r\n\r\n教育经历\r\n-----------\r\n\r\n* 2016-至今 \r\n* 常州机电职业技术学院 \r\n* 移动互联应用技术\r\n\r\n\r\n校内实践\r\n-----------\r\n\r\n* 某电商平台前端开发 \r\n* 某公司网站demo \r\n* 某外卖微信小程序  \r\n\r\n\r\n自我评价\r\n-----------\r\n* 逻辑思维强，喜欢分析和关注新鲜事物， \r\n* 热爱研究，有钻研精神，自信有想法，好学上进，\r\n* 良好的沟通表达能力，优秀的团队意识和协作精神， \r\n* 希望能够充分发挥自己的优势，共同努力成就一番事业。\r\n"
 
 /***/ }),
 /* 8 */
